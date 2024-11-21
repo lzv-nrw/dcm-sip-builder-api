@@ -2,10 +2,11 @@ import os
 from setuptools import setup
 
 setup(
-    version="2.1.0",
+    version="2.1.1",
     name="dcm-sip-builder-api",
-    description="api for sip-builder-containers",
+    description="specification of the DCM SIP Builder API",
     author="LZV.nrw",
+    license="MIT",
     install_requires=[
     ],
     packages=[
